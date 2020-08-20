@@ -13,7 +13,7 @@
   "author": "Nasser",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "cors": "^2.8.5",
     "dotenv": "^8.1.0",
     "eslint": "^6.3.0",
